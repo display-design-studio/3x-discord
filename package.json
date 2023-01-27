@@ -1,0 +1,17 @@
+{
+  "name": "3x-discord",
+  "version": "1.0.0",
+  "description": "display.design discord bot",
+  "main": "index.js",
+  "repository": "https://github.com/display-design-studio/3x-discord.git",
+  "author": "display-design",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "nodemon": "^2.0.20"
+  }
+}
